@@ -1,6 +1,6 @@
 This repository contains the course project for Computer Architecture CSC-201 IIT Roorkee
 
-The project is about pipelining a multi-layer perceptron using pytorch library and then comparing the speed for training the model as compared to when the model is trained without pipelining.
+The project is about pipelining a multi-layer perceptron on the MNIST data-set using pytorch library and then comparing the speed for training the model as compared to when the model is trained without pipelining.
 
 The ManualPipe.py contains code of pipelining the perceptron while the Regular.py is the one without pipelining.
 
